@@ -23,6 +23,7 @@ int division(int a, int b){
 		return a/b;
 	}
 	//corregido 201403794
+	//revisado 201403564
 }
 
 int potencia(int a , int b){
