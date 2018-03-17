@@ -13,6 +13,7 @@ int multiplicacion(int a, int b){
 int resta (int a, int b){
 	return a-b;
 	//revisado 201403794
+	//revisado 201403564
 }
 
 int division(int a, int b){
