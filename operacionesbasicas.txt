@@ -30,6 +30,7 @@ int potencia(int a , int b){
 	
 	return a ^ b;
 	//revisado 201403794
+	//revisado 201403564
 }
 
 int raiz(int a, int b){
